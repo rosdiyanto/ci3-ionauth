@@ -1,0 +1,15 @@
+/application/*
+!application/controllers
+!application/third_party
+application/third_party/index.html
+!application/language
+application/language/english
+application/language/index.html
+application/controllers/index.html
+application/controllers/Welcome.php
+/system
+readme.rst
+license.txt
+index.php
+composer.json
+.editorconfig
