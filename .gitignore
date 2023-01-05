@@ -12,8 +12,8 @@ application/views/errors
 application/views/index.html
 application/views/welcome_message.php
 /system
-readme.rst
-license.txt
-index.php
+/readme.rst
+/license.txt
+/index.php
 composer.json
 .editorconfig
