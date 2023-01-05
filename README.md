@@ -17,7 +17,7 @@ Ini adalah library yang digunakan untuk autentikasi proses login dengan fitur RB
    ```
 4. Import database `ionauth.sql`
 
-## Configutration
+## Configuration
 - edit `config/autoload.php`
 
 	```php
