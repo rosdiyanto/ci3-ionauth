@@ -7,6 +7,10 @@ application/language/english
 application/language/index.html
 application/controllers/index.html
 application/controllers/Welcome.php
+!application/views
+application/views/errors
+application/views/index.html
+application/views/welcome_message.php
 /system
 readme.rst
 license.txt
